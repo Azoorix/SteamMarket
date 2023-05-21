@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>steam_cloudsync.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\Profile.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\default_image.png" />
+    <None Remove="Assets\header_en.png" />
+    <None Remove="Assets\highlight_bg.png" />
+    <None Remove="Assets\join_pc.png" />
+    <None Remove="Assets\logo_steam.png" />
+    <None Remove="Assets\logo_steam.svg" />
+    <None Remove="Assets\market_banner.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="Pages\Profile.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="steam_cloudsync.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\default_image.png" />
+    <Resource Include="Assets\header_en.png" />
+    <Resource Include="Assets\highlight_bg.png" />
+    <Resource Include="Assets\join_pc.png" />
+    <Resource Include="Assets\logo_steam.png" />
+    <Resource Include="Assets\logo_steam.svg" />
+    <Resource Include="Assets\market_banner.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.4">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

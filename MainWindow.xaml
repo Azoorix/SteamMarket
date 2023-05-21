@@ -1,0 +1,42 @@
+﻿<Window x:Class="SteamMarket.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SteamMarket"
+        mc:Ignorable="d"
+        Title="Steam Market" Height="650" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="180*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="70" />
+            <RowDefinition Height="69*"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#101822" Grid.ColumnSpan="2">
+
+            <StackPanel Margin="50 0 0 0" Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock  VerticalAlignment="Center" Margin="20"  Name="Market_PG" Style="{StaticResource MainMarket}" Grid.Column="2" MouseLeftButtonDown="Market_PG_MouseLeftButtonDown"   Text="Маркет"></TextBlock>
+                <TextBlock  VerticalAlignment="Center" Margin="20"   Name="Inventory_PG" Style="{StaticResource MainMarket}" Grid.Column="2" MouseLeftButtonDown="Inventory_PG_MouseLeftButtonDown"  Text="Инвентарь"/>
+                <TextBlock  VerticalAlignment="Center" Margin="20"   Name="Operation_PG" Style="{StaticResource MainMarket}" Grid.Column="2" MouseLeftButtonDown="Operation_PG_MouseLeftButtonDown"  Text="Операции"/>
+                <TextBlock  VerticalAlignment="Center" Margin="20"   Name="Profile_PG" Style="{StaticResource MainMarket}" Grid.Column="2" MouseLeftButtonDown="Profile_PG_MouseLeftButtonDown"  Text="Профиль"/>
+
+            </StackPanel>
+            <TextBlock  Margin="20" VerticalAlignment="Center" HorizontalAlignment="Right" Name="LogOut" Style="{StaticResource MainMarket}" Grid.Column="2" MouseLeftButtonDown="LogOut_MouseLeftButtonDown"  Text="Выйти"/>
+
+            <Image MouseLeftButtonDown="Market_PG_MouseLeftButtonDown" Source="Assets/logo_steam.png"  Grid.ColumnSpan="2" Width="150" Margin="30 0" HorizontalAlignment="Left" ></Image>
+
+        </Grid>
+
+        <Grid Grid.Row="1" Background="#1b2838" Grid.ColumnSpan="2">
+            <Image Source="Assets/highlight_bg.png" Grid.Row="1"  Grid.ColumnSpan="2"  Margin="30 0" HorizontalAlignment="Center" Stretch="Fill" ></Image>
+        </Grid>
+        <Grid Grid.Row="2" Background="#101822" Grid.ColumnSpan="2"/>
+
+        <Frame x:Name="FrameMain" NavigationUIVisibility="Hidden" Grid.Row="1" Grid.ColumnSpan="2"></Frame>
+    </Grid>
+</Window>

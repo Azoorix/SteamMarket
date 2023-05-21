@@ -1,0 +1,625 @@
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\App.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\LoginPage.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\LoginPage.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.baml
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F\SQL sss\st\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+D:\F\SQL sss\st\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+D:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\WpfApp1\obj\Debug\net6.0-windows\LoginPage.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\WpfApp1\obj\Debug\net6.0-windows\App.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\LoginPage.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\WpfApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\WpfApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\WpfApp1\obj\Debug\net6.0-windows\LoginPage.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\WpfApp1\obj\Debug\net6.0-windows\App.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\LoginPage.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\LoginPage.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\App.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\LoginPage.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\Profile.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Games\WpfApp1\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+E:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\WpfApp0.2\obj\Debug\net6.0-windows\LoginPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\App.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\WpfApp0.2\obj\Debug\net6.0-windows\App.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\LoginPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\Profile.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp0.2\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\WpfApp0.2\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\WpfApp0.2\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\Profile.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\SellWindow.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\App.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\SellWindow.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\App.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\WpfApp0.2\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\WpfApp0.2\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\App.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\App.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\WpfApp0.2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\Profile.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\Profile.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\WpfApp0.2\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.Properties.Resources.resources
+E:\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.GenerateResource.cache
+E:\WpfApp0.2\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\RegistrationWindow.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageRegEmail.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\PageRegEmail.baml
+E:\WpfApp0.2\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.Properties.Resources.resources
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\WpfApp1.csproj.GenerateResource.cache
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Games\WpfApp0.2\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml

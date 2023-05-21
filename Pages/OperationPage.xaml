@@ -1,0 +1,40 @@
+﻿<Page x:Class="SteamMarket.Pages.OperationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SteamMarket.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Операции" >
+
+    <Grid x:Name="grid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <DataGrid FontSize="20" HorizontalScrollBarVisibility="Disabled" CanUserResizeRows="False" Grid.Row="1"  Padding="10 0 0 0" HorizontalAlignment="Center"  Margin="0 0 0 16" Grid.Column="1" BorderThickness="0" x:Name="OperationsGrid" AutoGenerateColumns="False" CanUserReorderColumns="False" IsReadOnly="True" CanUserResizeColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns >
+                <DataGridTextColumn x:Name="User" Binding="{Binding GetUserLogin}"  Width="100" Header="Пользователь"></DataGridTextColumn>
+                <DataGridTextColumn Width="375" Header="Предмет" Binding="{Binding IdItemNavigation.Name}"></DataGridTextColumn>
+                <DataGridTextColumn Width="50" Header="Количество" Binding="{Binding AmountItem}"></DataGridTextColumn>
+                <DataGridTextColumn Width="100"  Header="Тип" Binding="{Binding GetTypeName}" ></DataGridTextColumn>
+                <DataGridTextColumn Width="115" Header="Сумма" Binding="{Binding Sum}"></DataGridTextColumn>
+            </DataGrid.Columns>
+            <DataGrid.Background>
+                <ImageBrush></ImageBrush>
+            </DataGrid.Background>
+        </DataGrid>
+
+        <Button Grid.Row="1" Style="{StaticResource btn}" Click="BtnPrint_Click" Name="BtnPrint" HorizontalAlignment="Right" Width="90" VerticalAlignment="Bottom" Margin="5" Content="Печать">
+            <Button.Background>
+                <LinearGradientBrush SpreadMethod="Reflect" StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#46602a" Offset="1"></GradientStop>
+                    <GradientStop Color="#82B93C" Offset="0"></GradientStop>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+    
+</Page>

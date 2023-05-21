@@ -1,0 +1,54 @@
+﻿<Page x:Class="SteamMarket.Pages.WalletPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SteamMarket.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Баланс">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="180*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="30" />
+            <RowDefinition Height="69*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Grid  Margin="10, 0, 10, 0"   Grid.Row="1" Grid.ColumnSpan="2"  >
+            <Grid.Background >
+                <SolidColorBrush Color="#101822" Opacity="0.6"></SolidColorBrush>
+            </Grid.Background>
+
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" >
+            <StackPanel Orientation="Horizontal" Margin="0 0 40 50" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock  FontSize="25" Style="{StaticResource txt}" Margin="0 0 20 0" Text="Баланс"></TextBlock>
+                <TextBlock FontSize="25"  Style="{StaticResource txt}" Name="TBlockBalance" ></TextBlock>
+            </StackPanel>
+                <StackPanel Orientation="Vertical"  HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                    <TextBlock Text="Сумма пополнения" Style="{StaticResource txt}" Margin="0 0 20 0"></TextBlock>
+                    <TextBox MaxLength="9" Name="TBoxReplenishment" PreviewTextInput="TBoxReplenishment_PreviewTextInput" TextChanged="TBoxReplenishment_TextChanged"></TextBox>
+                    <TextBlock Text="Максимальная сумма пополнения 150000₽" Foreground="Red" Name="errorMessage1"></TextBlock>
+                    <TextBlock Text="Сумма пополнения превышает лимит баланса" Foreground="Red" Name="errorMessage2"></TextBlock>
+                    <Button Click="BtnTopUp_Click" Foreground="#ffffff" Height="30"   Name="BtnTopUp"  Content="Пополнить" >
+                        <Button.Background>
+                            <LinearGradientBrush SpreadMethod="Reflect" StartPoint="0,0" EndPoint="0,1">
+                                <GradientStop Color="#46602a" Offset="1"></GradientStop>
+                                <GradientStop Color="#82B93C" Offset="0"></GradientStop>
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+
+
+
+        </Grid>
+        
+    </Grid>
+</Page>

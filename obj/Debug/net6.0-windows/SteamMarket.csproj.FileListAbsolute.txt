@@ -1,0 +1,644 @@
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.exe
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.deps.json
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.pdb
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\next\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\App.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.g.resources
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.dll
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.pdb
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+C:\Users\next\Desktop\SteamMarket\obj\Debug\net6.0-windows\ref\SteamMarket.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.exe
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.deps.json
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.pdb
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Света\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\App.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.g.resources
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.dll
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.pdb
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+C:\Users\Света\Desktop\SteamMarket\obj\Debug\net6.0-windows\ref\SteamMarket.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.exe
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.deps.json
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.pdb
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\App.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\App.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.g.resources
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.dll
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.pdb
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+C:\Games\stable\SteamMarket\obj\Debug\net6.0-windows\ref\SteamMarket.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\SteamMarket.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\SteamMarket.exe
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\SteamMarket.deps.json
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\SteamMarket.pdb
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Games\stable\copytest\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\App.baml
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\App.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.g.resources
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.dll
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.pdb
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+C:\Games\stable\copytest\obj\Debug\net6.0-windows\ref\SteamMarket.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.exe
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.deps.json
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.pdb
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SteamMarket\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.g.resources
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.dll
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.pdb
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+C:\Users\user\Desktop\SteamMarket\obj\Debug\net6.0-windows\ref\SteamMarket.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.exe
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.deps.json
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.pdb
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Games\SteamMarket\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SellWindow.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\App.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\App.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SellWindow.baml
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.g.resources
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.dll
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.pdb
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+C:\Games\SteamMarket\obj\Debug\net6.0-windows\ref\SteamMarket.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.exe
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.deps.json
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.runtimeconfig.json
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\SteamMarket.pdb
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Humanizer.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fkng scum\SteamMarket\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.AssemblyReference.cache
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SellWindow.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\App.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_Content.g.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.cache
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket_MarkupCompile.lref
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\App.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\MainWindow.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\AddNewItemPage.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\InventoryPage.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\MarketPage.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\PageItem.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage1.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\RegistrationPage2.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\UserProfile.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\UsersInfoPage.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\Pages\WalletPage.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\RegistrationWindow.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SellWindow.baml
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.g.resources
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.Properties.Resources.resources
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.GenerateResource.cache
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfoInputs.cache
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.AssemblyInfo.cs
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CoreCompileInputs.cache
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.csproj.CopyComplete
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.dll
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\refint\SteamMarket.dll
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.pdb
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\SteamMarket.genruntimeconfig.cache
+D:\fkng scum\SteamMarket\obj\Debug\net6.0-windows\ref\SteamMarket.dll

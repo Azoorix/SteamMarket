@@ -1,0 +1,14 @@
+﻿<Window x:Class="SteamMarket.RegistrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SteamMarket"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="450" Width="800">
+    <Grid Background="#1b2838">
+        <Image Source="Assets/highlight_bg.png" Grid.Row="1"  Grid.ColumnSpan="2"  Margin="30 0" HorizontalAlignment="Center" Stretch="Fill" ></Image>
+        <Frame x:Name="FrameReg" NavigationUIVisibility="Hidden"></Frame>
+
+    </Grid>
+</Window>
